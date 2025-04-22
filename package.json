@@ -1,0 +1,19 @@
+{
+  "name": "gitcommand",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Teyrone/git-command.git"
+  },
+  "author": "Teyrone",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Teyrone/git-command/issues"
+  },
+  "homepage": "https://github.com/Teyrone/git-command#readme"
+}
